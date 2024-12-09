@@ -1,0 +1,15 @@
+google-generativeai
+gensim
+streamlit
+pytube
+youtube-transcript-api
+numpy
+pandas
+fitz  # PyMuPDF
+beautifulsoup4
+requests
+python-dotenv
+
+-e .
+
+
